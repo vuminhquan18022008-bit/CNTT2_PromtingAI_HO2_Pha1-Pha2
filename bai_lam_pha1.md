@@ -3,7 +3,7 @@
 - **Mã đề:** 06
 - **Họ tên:Vũ Minh Quân**
 - **Lớp:CNTT2**
-- **Link repository Pha1:**
+- **Link repository Pha1:https://github.com/vuminhquan18022008-bit/CNTT2_PromtingAI_HO2_Pha1-Pha2/blob/main/bai_lam_pha1.md**
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
