@@ -115,7 +115,7 @@ Tổng thanh toán: 4.859.075 đồng
 
 ### b) Kiểm tra kết quả AI
 
-(Ghi kết luận AI đúng hay sai; nếu sai, ghi bước sai đầu tiên và kết quả đúng của bước đó – xoá dòng này)
+AI đã tính đúng rồi 
 
 ## 4.4. Dây chuyền xử lý khiếu nại – kết quả Trạm 1
 
